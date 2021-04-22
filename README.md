@@ -3,7 +3,7 @@ This repository about process text data with Spark and Python.
 
 ### Author:
 
-<a href="https://github.com/harishThadka"><img src="https://avatars.githubusercontent.com/u/60013824?s=400&u=4519aa7212ab3cef634b23bec1c89f1b76c261ed&v=4" width="100px;" alt=""/><br /><sub><b>Harish Thadka</b></sub></a><br /><a href="https://github.com/harishThadka" title="Code">💻</a>
+<a href="https://github.com/harishThadka"><img src="https://avatars.githubusercontent.com/u/60013824?s=400&u=4519aa7212ab3cef634b23bec1c89f1b76c261ed&v=4" width="100px;" alt=""/><br /><sub><b>Harish Thadka</b></sub></a><br /><a href="https://github.com/harishThadka" title="Code"></a>
 
 ### Text Data:
 - Source:  https://www.gutenberg.org/ebooks/113
