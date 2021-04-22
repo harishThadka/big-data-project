@@ -1,6 +1,10 @@
 # big-data-project
 This repository about process text data with Spark and Python.
 
+### Author:
+
+<a href="https://github.com/harishThadka"><img src="https://avatars.githubusercontent.com/u/60013824?s=400&u=4519aa7212ab3cef634b23bec1c89f1b76c261ed&v=4" width="100px;" alt=""/><br /><sub><b>Harish Thadka</b></sub></a><br /><a href="https://github.com/harishThadka" title="Code">💻</a>
+
 ### Text Data:
 - Source:  https://www.gutenberg.org/ebooks/113
 - Text data: https://www.gutenberg.org/files/113/113-0.txt  
@@ -92,6 +96,7 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 ![output](output.png)
 ### References:
 - https://medium.com/@gulcanogundur/pyspark-word-count-b099106135a7
+- https://stackoverflow.com/questions/59240504/spark-python-reducebykey-then-find-top-10-most-frequent-words-and-frequencies
 
 
 
